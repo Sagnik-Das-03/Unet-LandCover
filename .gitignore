@@ -1,0 +1,6 @@
+data
+LargeImagesBatched
+FurtherTraining/Checkpoints
+FurtherTraining/History
+Segmentation_Models/
+TestModels/segmentation_results
